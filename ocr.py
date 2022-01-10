@@ -297,8 +297,7 @@ def Failure_Handling(image):
 		# shutil.move('images/'+image_name,'FReading/'+image_name)
 
 for i in range(1):
-
-	image_name = '3c6d1c6a-add4-48dc-b03f-094b1dfdad36.jpeg'#'3c6b5658-46b5-4761-b559-b961c9d39ada.jpeg'#'05d75378-cf24-4c86-9e34-ea6c31415eab.jpeg'#images[i]#'05e2b636-b091-473e-b1b8-273039980da7.jpeg'#'05d75378-cf24-4c86-9e34-ea6c31415eab.jpeg'#images[i]#'05e2b636-b091-473e-b1b8-273039980da7.jpeg'#images[i]#'05ea52fe-0258-42e4-bb6b-b69654bf6a22.jpeg'#'05e711a2-3f7b-4df4-9552-853c0b982a4e.jpeg'#'05e85b37-c2a1-4266-b740-8e49d5dfce7c.jpeg'#'05e29e6b-e0d3-4419-bf52-be7b0f00173f.jpeg'#'05da6f12-92e2-4ad9-8d2a-263d7ae92e8c.jpeg'
+	image_name = "test.jpg"
 	print(image_name)
 	
 	try:
